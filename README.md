@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mussie56/Leetcode-Qs/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/mussie56/Leetcode-Qs/tree/master/0190-reverse-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/mussie56/Leetcode-Qs/tree/master/2396-strictly-palindromic-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/mussie56/Leetcode-Qs/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
